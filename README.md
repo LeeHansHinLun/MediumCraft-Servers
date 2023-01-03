@@ -1,0 +1,2 @@
+# MediumCraft-Servers
+Server setups
